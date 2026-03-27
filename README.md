@@ -68,7 +68,7 @@ flowchart LR
 ## Vista previa del proyecto
 
 <p align="center">
-  <img src="images/sat-apicola-dashboard-blur.png" alt="Dashboard diagnóstico apícola" width="85%">
+  <img src="images/apicola.png" alt="Dashboard diagnóstico apícola" width="85%">
 </p>
 
 > Nota: la imagen fue adaptada para fines de portafolio y no expone información sensible ni datos identificables de productores.
